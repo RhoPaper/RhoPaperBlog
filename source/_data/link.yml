@@ -1,0 +1,130 @@
+- class_name: 戈门
+  class_desc: 那些人，那些事
+  flink_style: anzhiyu
+  hundredSuffix: ""
+  link_list:
+    - name: 凪Ze
+      link: https://wyz.rhopaper.top/
+      avatar: https://wyz.rhopaper.top/images/avatar.jpg
+      descr: 凪Zeの个人主页
+      color: vip
+      tag: 牢底
+      # recommend: true
+
+    - name: 天启
+      link: https://www.tianqi.eu.org/
+      avatar: https://s1.imagehub.cc/images/2024/10/04/ed22d1a1ee9d2b04dfd9d598a7b0cefb.png
+      descr: 天启·一个默默无闻的服务器
+      # siteshot: https://s1.imagehub.cc/images/2024/10/04/d6596df4164881c058a458c9b0be8c67.jpg
+      color: vip
+      tag: 服务器
+      # recommend: false
+
+    - name: For the zero
+      link: https://for-the-zero.github.io/
+      avatar: https://for-the-zero.github.io/img/avatar.png
+      descr: For the zero的博客
+      color: vip
+      tag: web友
+
+- class_name: 推荐博客
+  flink_style: telescopic
+  hundredSuffix: ""
+  link_list:
+    - name: iMaeGoo’s Blog
+      link: https://www.imaegoo.com
+      avatar: https://s1.imagehub.cc/images/2024/10/07/21db61706780f5b2e6f6aec511fbdae0.jpg
+      descr: 虹墨空间站
+      siteshot: https://s1.imagehub.cc/images/2024/10/07/ae864cf21444dc2b4e684ba6881f8caf.webp
+
+    # - name: 心流
+    #   link: https://natro92.fun/
+    #   avatar: https://berial123.oss-cn-beijing.aliyuncs.com/img/860dd94f08a30cf4a8b7fd9685aed42.webp
+    #   descr: Carpe diem.
+    #   siteshot: https://berial123.oss-cn-beijing.aliyuncs.com/img/19494d34d94406d4701447143c4a00c.png
+
+    # - name: freejishu
+    #   link: https://www.freejishu.com/
+    #   avatar: https://s1.imagehub.cc/images/2024/10/13/c4100564dccbc69a983ac3ba913f2739.webp
+    #   descr: freejishu的美丽世界
+    #   siteshot: https://s1.imagehub.cc/images/2024/10/07/7adc366d078acce0c37c8140d6856868.webp
+    
+    - name: 佳凌雾杨
+      link: https://project.chukogals.top/
+      avatar: https://s1.imagehub.cc/images/2024/10/13/3fc546b54240c514da97ae903c42b767.jpg
+      descr: 中古美少女博客
+      siteshot: https://s1.imagehub.cc/images/2024/10/07/018b49e4a8b7cd681bdd7125bc7e8451.webp
+    
+    - name: Haoyu的博客
+      link: https://g-haoyu.top/
+      avatar: https://s1.imagehub.cc/images/2024/10/13/3068fa1fdef22c8c4a1765b74cb14493.png
+      descr: 恭喜，你发现了宝藏
+      siteshot: https://s1.imagehub.cc/images/2024/10/13/c509b354ff2986a844bd089381c8a4cc.webp
+
+    - name: 喵喵 の 小窝
+      link: https://blog.meowo.moe/
+      avatar: https://img.meowo.moe/images/2024/12/27/avatar.jpg
+      descr: フランドール·スカーレット 赛高！
+      siteshot: https://s1.imagehub.cc/images/2024/12/29/451b663944ce538048831546e4cf0f06.webp
+    
+    - name: 泠泫凝的异次元空间
+      link: https://lxnchan.cn
+      avatar: https://lxnchan.cn/assets/logo-v2.webp
+      descr: '#Linux #有趣的技术 #前端 #运维 #网络'
+      siteshot: https://s1.imagehub.cc/images/2024/10/13/cbd64eb6341e055ecaf4b72b20809ea7.webp
+    
+    # - name: Navi
+    #   link: https://imszz.com
+    #   avatar: https://cdn.jsdelivr.net/gh/weilain/cdn-photo/Photo/avatar.jpg
+    #   descr: 时间如一捧流沙,缓缓的在指间流尽
+    #   siteshot: https://s1.imagehub.cc/images/2024/10/13/1ce9977beec9ab710ae2392c9077e215.webp
+
+    - name: 晚夜的个人博客
+      link: https://www.iczrx.cn
+      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640
+      descr: 做好量变的准备，促进事物的质变。
+      siteshot: https://s1.imagehub.cc/images/2024/10/20/18a5585fc5b831922b645890041db092.jpeg
+
+    - name: 哈冬猪的小站
+      link: https://hadongzhu.com
+      avatar: https://weavatar.com/avatar/f772966044f5d6e64791b2a1ae76658a?s=256
+      descr: 不是轨道，是旷野
+      siteshot: https://s1.imagehub.cc/images/2024/10/26/b7473f04d403eefd584abe9810aa6e21.webp
+
+    - name: kina漫记
+      link: https://kina.uno/
+      avatar: https://s1.imagehub.cc/images/2024/10/26/28409a4464995c915ae916d18972b248.webp
+      descr: 千鹤飞， 樱花映樱井， 春梦轻绕
+      siteshot: https://s1.imagehub.cc/images/2024/12/29/a40ddd67294b5ce71d0425c62d835af1.webp
+    
+    - name: TimochanのBlog
+      link: https://www.timochan.cn/
+      avatar: https://www.timochan.cn/api/objects/icon/9s6tbcvax674yv2m88.jpg
+      descr: Let's start learning
+      siteshot: https://s1.imagehub.cc/images/2024/11/23/2f266fc9d2ff322dfeff1dcc44b82fef.webp
+    
+    - name: 猫猫博客
+      link: https://catcat.blog/
+      avatar: https://s1.imagehub.cc/images/2024/11/23/b279f8e324e4ab8d7fd22c67d0355548.jpg
+      descr: 猫猫摸鱼
+      siteshot: https://s1.imagehub.cc/images/2024/11/23/f2b1c3f1c3e2c0527989e09f082ca260.webp
+
+    - name: yingy5658的万事屋
+      link: http://www.yingyu5658.cn
+      avatar: https://cdn.jsdelivr.net/gh/yingyu5658/tc@main/myblog/yuanxingtouxiang.png
+      descr: 技术与生活
+      siteshot: https://s1.imagehub.cc/images/2024/12/21/ff1de3a05c309fda06488545f3527ae6.webp
+
+- class_name: 框架
+  flink_style: flexcard
+  hundredSuffix: ""
+  link_list:
+    - name: Hexo
+      link: https://hexo.io
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网站框架
+    - name: anzhiyu主题
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg

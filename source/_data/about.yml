@@ -1,0 +1,116 @@
+- class_name: 关于页
+  subtitle: 纸 至 执
+  avatarImg: https://rhopaper.top/avatar.jpg
+  avatarSkills:
+    left:
+      - 📖 读书DeBug两不误
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      
+    right:
+      - 设计开发一条龙 🔨
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+  name: RhoPaper
+  description: 是一名 学牲、UP主、独立开发者、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello World!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，宁波市
+    background: https://s1.imagehub.cc/images/2024/10/04/aeab1d91b3b2ab6aa55f2b3f89058151.png
+    backgroundDark: https://s1.imagehub.cc/images/2024/10/04/1ee26f497dc1cdad6375b02ece76bbb0.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 1145
+    selfInfoTips2: iKUN学院
+    selfInfoContent2: 软件工程
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 学牲👨‍🎓
+  personalities:
+    author_name: 活动家
+    personality_type: ENFP-A
+    photo_url: https://s1.imagehub.cc/images/2024/10/04/6b1a7feba644865cc0fba1ca59eab86d.png
+    personality_img: https://s3.tebi.io/paperpan/enfp_img.svg
+    name_url: https://www.16personalities.com/enfp-personality
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 我们的征途
+    maxim_bottom: 是星辰大海！
+  buff:
+    buff_tips: 特长
+    buff_top: 做UP（虽然没有起色）
+    buff_bottom: 写科幻小说（从未上刊）
+  game:
+    game_tips: 爱好游戏
+    game_title: Minecraft
+    game_uid: "我的世界"
+    game_bg: https://s1.imagehub.cc/images/2024/10/26/4e50c23852c4cc9ef9395928983353fc.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 约定的梦幻岛
+        href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/27/647166c44b414.webp
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+      - name: 紫罗兰永恒花园
+        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
+      - name: JOJO的奇妙冒险 黄金之风
+        href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/30/64760e38d651a.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 轻音乐、治愈、卡点
+    music_bg: https://s1.imagehub.cc/images/2024/10/26/aa0e6c9c27bea47c813d8e20905f232f.webp
+    music_link: /music
+  reward_list:
+    - name: 亲子拾光
+      amount: 3.36
+      datatime: 2023-10-06
+      suffix: 贝壳
+    - name: 悲伤的暗区突围在玩地铁逃生
+      amount: 2
+      datatime: 2024-10-05
+    - name: 悲伤的暗区突围在玩地铁逃生
+      amount: 2
+      datatime: 2024-10-05

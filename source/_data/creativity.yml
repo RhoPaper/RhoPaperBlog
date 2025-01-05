@@ -1,0 +1,46 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: Bilibili
+      color: "#1db6ef"
+      icon: https://s1.imagehub.cc/images/2024/10/07/b83b22f558b64c1c7e9ab3e9a178933f.png
+    - name: OBS
+      color: "#4B4B4B"
+      icon: https://s1.imagehub.cc/images/2024/10/07/f1e409c8ac3971df9587f23983de26e3.png
+    - name: Python
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/04/09/643293b1230f7.png
+    - name: C++
+      color: "#fff"
+      icon: https://s1.imagehub.cc/images/2024/10/07/54cc213f3cbee491c93af593aaa56adc.png
+    - name: VScode
+      color: "#fff"
+      icon: https://s1.imagehub.cc/images/2024/10/07/b4497d7467e1eb396ebfb88f5f66d81d.png
+
+    - name: HTML
+      color: "#e9572b"
+      icon: https://bu.dusays.com/2022/12/15/639aa3a5c241c.png    
+    - name: CSS3
+      color: "#2c51db"
+      icon: https://bu.dusays.com/2022/12/15/639aa3a5c251e.png
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://bu.dusays.com/2023/04/09/643293b121f02.png
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/09/643293b10ccdd.webp
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Vue
+      color: "#b8f0ae"
+      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png
+
+    - name: Windows
+      color: "#fff"
+      icon: https://s1.imagehub.cc/images/2025/01/01/e8d0b610fd3fe07a46967bcd4b96f1de.png
+    - name: Linux
+      color: "#fff"
+      icon: https://s1.imagehub.cc/images/2025/01/01/45e3b02d9a3f73dcc493e24897c585c1.png
+    - name: Apple
+      color: "#fff"
+      icon: https://s1.imagehub.cc/images/2025/01/01/a51e9516e32310b4ea8e617c581ca4a4.png

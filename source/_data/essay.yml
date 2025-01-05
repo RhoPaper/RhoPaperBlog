@@ -1,0 +1,80 @@
+- title: 即刻短文
+  subTitle: 咸鱼的日常生活。
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://s1.imagehub.cc/images/2024/10/04/e5f3fd01abf9fa07d653387e662a29a9.jpg
+  essay_list:
+    - content: 热烈庆祝中华人民共和国成立75周年！！！
+      date: 2024/10/03 06:00:00
+    - content: 今天即刻短文上线了
+      date: 2024/10/03 21:04
+      link: /essay/
+      from: RhoPaper
+    - content: 今天又做了一期视频~虽然有点水……
+      date: 2024/10/03 18:02
+      from: RhoPaper
+      video:
+        - https://player.bilibili.com/player.html?isOutside=true&aid=113242332529788&bvid=BV1S8xXeWExR&cid=26120945929&p=1&autoplay=0
+    - content: 今天屁股肉打得爽！
+      date: 2024/10/03 14:56
+      from: RhoPaper
+      image:
+      - https://s1.imagehub.cc/images/2024/10/04/ed38ce23a1de963bdb77b9f1be021dc1.jpg
+    - content: 把图床换成imagehub了
+      date: 2024/10/4 06:27
+      image:
+      - https://s1.imagehub.cc/images/2024/10/05/34145446d7acc40d8d10172661dc82dd.png
+      link: /2024/10/04/全网免费图床推荐/#NO-1-图仓-Imagehub
+      from: RhoPaper
+    - content: 今天逛知乎的时候看到一句话：“在中国你很难不犯法。好消息是，违法不一定会有人管你;坏消息是，违法不一定会有人管你。”
+      date: 2024/10/05 
+      link: https://www.zhihu.com/question/617917921/answer/3180465191
+    - content: 在中国，任何超脱飞扬的思想都会砰然坠地的，现实的引力太沉重了。——刘慈欣《三体》
+      date: 2024/10/05 05:18:25
+      link: https://www.zhihu.com/question/617917921/answer/3173907554
+    - content: 我是B站风纪委员啦！🥳🥳🥳
+      date: 2024/10/05 06:04:49
+      link: https://space.bilibili.com/1762881915
+      image:
+      - https://s1.imagehub.cc/images/2024/10/05/cf7d723f3d9f6c42ce7f98c2870e4ecb.png
+      - https://s1.imagehub.cc/images/2024/10/05/8d00590ba1d87f3f92e966d080163a94.jpg
+      from: RhoPaper
+    - content: 终于整好相册集了！
+      date: 2024/10/05 06:56:58
+      from: RhoPaper
+      link: /album/
+    - content: 这个git提交好随缘啊！
+      date: 2024/10/05 18:19:34
+    - content: 今天把twikoo云函数改成用Vercel部署了，HuggingFace这个坑爹玩意儿没法用邮件通知功能！注意避坑🕳啊！
+      date: 2024/10/07 11:30:23
+    - content: 啊啊啊啊啊VSCode你是我的神！！！前几天完善博客的时候不知道怎么回事赞赏弹窗它就那么水灵灵的逝了，直接出现在屏幕左侧一米开外！屋漏偏逢连夜雨，电脑突然关机了，没法还原了（当时我有多崩溃）。今天看到左下角的“时间线”，点开一看，我直接不会说话了！VSCode就是我的活爹呀！！！
+      date: 2024/10/12 19:55:43
+      image:
+      - https://s1.imagehub.cc/images/2024/11/09/f8cf63681824169f048cd290a06221c1.webp
+    - content: 把博客的托管从Github Pages迁移到Vercel上了，因为前几天发现百度无法收录Github Pages上的站点，查了一下还是投入Vercel的怀抱了~说实话Vercel真的是个好东西，托管起来很方便。
+      date: 2024/11/09 19:38:54
+      link: https://vercel.com/
+      from: RhoPaper
+      image:
+      - https://s1.imagehub.cc/images/2024/11/09/164a693514661d3834208e8f34355bbf.jpg
+    - content: 好久没写过即刻短文了，为什么呢？（emm……）
+      date: 2024/12/14 16:00:00
+      from: RhoPaper
+    - content: 博文写得好累啊……😩😩😩
+      date: 2024/12/15 19:56:44
+      from: RhoPaper
+    - content: 我在共创世界WGJ预告帖的评论被置顶了！
+      date: 2024/12/21 19:01:00
+      from: RhoPaper
+      link: https://learn.ccw.site/article/1cf193bb-1533-4667-9b31-d72248cd387c
+      image:
+      - https://s1.imagehub.cc/images/2024/12/21/21c561b5898ebcd5da4b32f0a62665a2.th.jpeg
+    - content: 新的一年！再见，2024！你好，2025！
+      date: 2025/01/01 00:00:00
+      from: RhoPaper
+    - content: 终于动了动我没有任何一丝想动的念头的手，写了篇文章，甚至还加了技能点……额……只是Win和Linux……（ 我 是 神 金 ）
+      date: 2025/01/01 17:11:00
+      from: RhoPaper

@@ -1,0 +1,82 @@
+- class_name: 天涯海角风景集
+  path_name: /World/
+  type: 2
+  description: 走遍天涯海角，迎接未来召唤！
+  cover: https://s1.imagehub.cc/images/2024/10/05/df465299e7d4814595b532cd7d5ec4ad.jpg
+  top_background: https://s1.imagehub.cc/images/2024/10/05/32d1b443a3ef61ed58d18406310f763c.jpg
+  rowHeight: 500
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2024/10/06 08:00:00
+      content: 国庆魔都（上海）之旅
+      address: 上海市
+      from: RhoPaper
+      image:
+        - https://s1.imagehub.cc/images/2024/11/03/097b52ccba5e2550a033671abd452639.webp
+        - https://s1.imagehub.cc/images/2024/11/03/2be1a7e90a36c4b1c494f87ed16e8b97.webp
+        - https://s1.imagehub.cc/images/2024/11/03/c35401b2556322cc07b3bfe38ee1e639.webp
+        - https://s1.imagehub.cc/images/2024/11/03/1e68dbc5a2e7be8be9130625f1018438.webp
+        - https://s1.imagehub.cc/images/2024/11/03/aa9a95aa93ab4e570123f771e7f59dbb.webp
+        - https://s1.imagehub.cc/images/2024/11/03/122c33038163c199eccfac187cd41ab4.webp
+        - https://s1.imagehub.cc/images/2024/11/03/411254c396b42b9d74c5cd5197f1ea16.webp
+        - https://s1.imagehub.cc/images/2024/11/03/96886f01ab88fc4ce03300899b721729.webp
+        - https://s1.imagehub.cc/images/2024/11/03/cfe8ceced851bf20716a3acc6213f385.webp
+        - https://s1.imagehub.cc/images/2024/11/03/1c6991db16e38eef9c649f0340f2c784.webp
+        - https://s1.imagehub.cc/images/2024/11/03/0ca4d5427d4347fa319174fcd414a7f9.webp
+        - https://s1.imagehub.cc/images/2024/11/03/3951fd6bd8ee10e009e285097affc863.webp
+        - https://s1.imagehub.cc/images/2024/11/03/60d0f854da0c04099db9895218c2a9af.webp
+        - https://s1.imagehub.cc/images/2024/11/03/324b8f020a45cebca7aa5cb8c52b4e15.webp
+        - https://s1.imagehub.cc/images/2024/11/03/59e89a876d9a7088808960cef6f572a3.webp
+        - https://s1.imagehub.cc/images/2024/11/03/b2eb230feae0cfc15c0ab34f22942be4.webp
+        - https://s1.imagehub.cc/images/2024/11/03/39b2f787d4c151ed5ae49fab5dedfc05.webp
+        - https://s1.imagehub.cc/images/2024/11/03/3b8cf2cfb73c882fba929180a7453a04.webp
+        - https://s1.imagehub.cc/images/2024/11/03/3a6c3e47846d5c434ef44fef232b2750.webp
+        - https://s1.imagehub.cc/images/2024/11/03/f90d55972a262aa6b6620eccea24fcbb.webp
+        - https://s1.imagehub.cc/images/2024/11/03/82d6f5eaa896a11552aaeda70c873975.webp
+        - https://s1.imagehub.cc/images/2024/11/03/44368921b447b7aef7af1990e5241def.webp
+        - https://s1.imagehub.cc/images/2024/11/03/f9fbac41367c062327460f6db7147730.webp
+        - https://s1.imagehub.cc/images/2024/11/03/be2e7bedade6550eacb2231469492724.webp
+        - https://s1.imagehub.cc/images/2024/11/03/7c8a59f58c5f170a7297d57c90572ee9.webp
+        - https://s1.imagehub.cc/images/2024/11/03/8310f46903760167f61911a2aef90e94.webp
+        - https://s1.imagehub.cc/images/2024/11/03/159e67ad8153d12db9ad965080790a79.webp
+        - https://s1.imagehub.cc/images/2024/11/03/2a15e990f46838c016849e0bb34f9e63.webp
+        - https://s1.imagehub.cc/images/2024/11/03/2a287bb08e59f47289ac8091137d23d1.webp
+        - https://s1.imagehub.cc/images/2024/11/03/355b36ad6df16fe6c2a361364037f758.webp
+        - https://s1.imagehub.cc/images/2024/11/03/fa4e4b0f08c43d79fd10bad61ba26c8f.webp
+        - https://s1.imagehub.cc/images/2024/11/03/68c3b1cfbc71c759b56151a0724d8198.webp
+        - https://s1.imagehub.cc/images/2024/11/03/3883429ed730d15fd675769e503c9c75.webp
+        - https://s1.imagehub.cc/images/2024/11/03/8cbed4c5f43247cb4098b170eca6c536.webp
+        - https://s1.imagehub.cc/images/2024/11/03/764bc77cf5e5616ac3a8ffcb330d1c25.webp
+
+
+- class_name: only UP
+  path_name: /up/
+  type: 1
+  description: 这里只有一只小UP主的分享
+  top_link: /about/
+  top_btn_text: 更多好东西
+  top_background: https://s1.imagehub.cc/images/2024/10/05/7be5280c83455b06cc44b5fd9bdbe3e6.jpg
+  cover: https://s1.imagehub.cc/images/2024/11/03/e54e4581da362a3ec52e85af12a6c882.webp
+  album_list:
+    - date: 2024-09-28
+      content: 破百粉辣~
+      image: 
+      - https://s1.imagehub.cc/images/2024/10/05/4730f799f843216d53c24fdd8a2b01c3.jpg
+      - https://s1.imagehub.cc/images/2024/10/05/27b8389d63882d7772cdc4f39e3c76e3.png
+    - date: 2024-09-28
+      content: 单个视频播放量破5万！
+      image:
+      - https://s1.imagehub.cc/images/2024/10/05/1e724420006998901f994263841738e3.jpg
+    - date: 2024-09-28
+      content: 累计播放量破10w了！
+      image:
+      - https://s1.imagehub.cc/images/2024/10/05/273fabdf822032806fe28040c82b8353.jpg
+    - date: 2024-10-09
+      content: 单个视频播放量破10万！
+      image:
+      - https://s1.imagehub.cc/images/2024/11/03/fa8c72dd609f66868e6e920a329f79b8.jpg
