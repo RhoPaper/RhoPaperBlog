@@ -32,8 +32,8 @@ comments: false
 
 **巨型FLAG！**
 
-'''text
+```text
 每周更新，全年无休！！！
-'''
+```
 
 ---
