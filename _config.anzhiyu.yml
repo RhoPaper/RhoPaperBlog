@@ -81,7 +81,7 @@ copy:
 social:
   Github: https://github.com/RhoPaper || anzhiyu-icon-github
   BiliBili: https://space.bilibili.com/1762881915 || anzhiyu-icon-bilibili
-  X（以前的twitter）: https://x.com/RhoPaper_ || anzhiyu-icon-dove
+  X（twitter）: https://x.com/RhoPaper_ || anzhiyu-icon-dove
   QQ: https://qm.qq.com/q/Gd7Wj3JBSK || anzhiyu-icon-qq
   E-mail: mailto:rhopaper@rhopaper.top || anzhiyu-icon-envelope
   Telegram: https://t.me/+TzcImtngH0YwYTk1 || anzhiyu-icon-paper-plane
@@ -279,7 +279,7 @@ post_edit: # 目前仅可选择一个平台在线编辑
   enable: false
   # github: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  github: false
+  github: https://github.com/RhoPaper/RhoPaperBlog/edit/main/source/
 
   # yuque: https://www.yuque.com/user-name/repo-name/
   # 示例: https://www.yuque.com/yuque/yuque/
@@ -1089,13 +1089,13 @@ home_top:
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 学习
-      path: /categories/大学生涯/
+    - name: 实用
+      path: /categories/实用/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+    - name: 建站
+      path: /categories/建站/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
@@ -1167,7 +1167,7 @@ nav_music:
 # 评论匿名邮箱
 visitorMail:
   enable: true
-  mail: ""
+  mail: "anonymous@rhopaper.top"
 
 # ptool 文章底部工具
 ptool:
@@ -1211,7 +1211,7 @@ greetingBox:
 # 文章顶部ai摘要
 post_head_ai_description:
   enable: true
-  gptName: Paper
+  gptName: Paper³
   mode: local # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
   btnLink: https://rhopaper.top/
