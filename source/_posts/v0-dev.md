@@ -9,7 +9,7 @@ categories: 好用爱用
 keywords: v0.dev, 前端AI生成工具, Vercel
 description: 推荐一款由Vercel团队开发的前端用户界面生成工具v0.dev，它凭借强大的AI功能，为开发者和设计师带来了前所未有的便利。
 ai: 推荐一款由Vercel团队开发的前端用户界面生成工具v0.dev，它凭借强大的AI功能，为开发者和设计师带来了前所未有的便利。
-cover: [https://example.com/cover-image.jpg](https://s1.imagehub.cc/images/2025/01/17/978ff58e3e6885d1e19edfbe4e4a61c2.jpg)
+cover: https://s1.imagehub.cc/images/2025/01/17/978ff58e3e6885d1e19edfbe4e4a61c2.jpg
 ---
 
 在当今快节奏的科技时代，前端开发领域不断涌现出各种创新工具，旨在提高开发效率、简化设计流程。v0.dev正是这样一款由Vercel团队开发的前端用户界面生成工具，它凭借强大的AI功能，为开发者和设计师带来了前所未有的便利。
