@@ -2,8 +2,8 @@
 title: 行星发动机控制系统源码（由DeepSeek生成）
 date: 2025-01-31 12:18:55
 tags: 
-- UP主
-- 实用
+  - UP主
+  - 实用
 categories: UP日记
 keywords: AI, AI生成, 代码, 编程, 流浪地球, 行星发动机, 控制系统, 开源
 description: B站视频中出现的源码
