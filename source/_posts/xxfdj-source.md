@@ -13,7 +13,7 @@ cover: https://s1.imagehub.cc/images/2025/01/31/3eaf27c8d07680884f83979904fa4276
 
 由于B站非常淦的代码块功能，在这里也放一份。
 
-'''python
+```python
 import time
 import random
 
@@ -164,4 +164,4 @@ if __name__ == "__main__":
         else:
             print("未知命令")
 
-'''
+```
