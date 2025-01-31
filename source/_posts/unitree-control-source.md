@@ -5,7 +5,7 @@ tags:
 - UP主
 - 实用
 categories: UP日记
-keywords: AI, AI生成, 代码, 编程, 开源, 哔哩哔哩, 宇树, Unitree
+keywords: AI, AI生成, 代码, 编程, 开源, 宇树, 机器人
 description: B站视频中出现的源码2.0
 ai: B站视频中出现的源码2.0
 cover: https://s1.imagehub.cc/images/2025/01/31/177fcb3d7b71a1801556fbc4d62575f9.jpg
