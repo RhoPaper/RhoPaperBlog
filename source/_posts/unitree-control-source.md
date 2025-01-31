@@ -2,8 +2,8 @@
 title: 宇树机器人控制程序（Powered By DeepSeekR1）
 date: 2025-01-12 14:42:33
 tags: 
-- UP主
-- 实用
+  - UP主
+  - 实用
 categories: UP日记
 keywords: AI, AI生成, 代码, 编程, 开源, 宇树, 机器人
 description: B站视频中出现的源码2.0
