@@ -8,7 +8,7 @@ tags:
 categories: 好用爱用
 description: 手把手教会你使用DeepSeek API服务！AI快人一步！
 ai: 手把手教会你使用DeepSeek API服务！AI快人一步！
-cover: https://s1.imagehub.cc/images/2025/02/16/7f33bf078ff2da46cd53e5051005a553.webp
+cover: https://s1.imagehub.cc/images/2025/02/16/c435eee23cd2d77bbfc7e8114269b168.webp
 ---
 
 ## 关于DeepSeek
@@ -154,7 +154,7 @@ cover: https://s1.imagehub.cc/images/2025/02/16/7f33bf078ff2da46cd53e5051005a553
 
 {% tabs choose-language, -1 %}
 
-<!-- tab -->
+<!-- tab Python-->
 
 **Python**
 
@@ -183,7 +183,7 @@ print(response.choices[0].message.content)
 
 <!-- endtab -->
 
-<!-- tab -->
+<!-- tab Node.js-->
 
 **Node.js**
 
@@ -215,7 +215,7 @@ main();
 
 <!-- endtab -->
 
-<!-- tab -->
+<!-- tab curl-->
 
 **curl**
 
