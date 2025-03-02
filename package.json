@@ -12,6 +12,7 @@
     "version": "7.3.0"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^1.2.0",
     "hexo": "^7.3.0",
     "hexo-algoliasearch": "^2.0.1",
     "hexo-bilibili-bangumi": "^1.10.7",
