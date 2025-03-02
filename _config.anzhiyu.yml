@@ -596,12 +596,12 @@ footer:
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics: c94eb1c171ad07325c48c7eaab001535
+baidu_analytics: # 不用 c94eb1c171ad07325c48c7eaab001535
 
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics: G-21CWE6JQ5W
+google_analytics: # 暂时不用 G-21CWE6JQ5W
 
 # CNZZ Analytics
 # https://www.umeng.com/
@@ -609,11 +609,11 @@ cnzz_analytics:
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
-cloudflare_analytics: 820730ba65704b09b4e8bad3619839ea
+cloudflare_analytics: # 暂时不用 820730ba65704b09b4e8bad3619839ea
 
 # Microsoft Clarity
 # https://clarity.microsoft.com/
-microsoft_clarity: oa58g90s8n
+microsoft_clarity: qhsgfho1px # 不用 oa58g90s8n
 
 # Advertisement
 # --------------------------------------
@@ -683,7 +683,7 @@ sidebar:
 h2Divider: false
 
 # 表格隔行变色
-table_interlaced_discoloration: false
+table_interlaced_discoloration: true
 
 # 首页双栏显示
 article_double_row: true
