@@ -691,7 +691,7 @@ const anzhiyu = {
 
   //获取音乐中的名称
   musicGetName: function () {
-    var x = document.querySelector(".aplayer-title");
+    var x = document.querySelectorAll(".aplayer-title");
     var arr = [];
     for (var i = x.length - 1; i >= 0; i--) {
       arr[i] = x[i].innerText;
@@ -921,6 +921,11 @@ const anzhiyu = {
       anzhiyu.changeMusicList();
     });
 
+    // 默认加载的歌单
+    if (GLOBAL_CONFIG.music_page_default === "custom") {
+      anzhiyu.changeMusicList();
+    }
+
     // 监听键盘事件
     //空格控制音乐
     document.addEventListener("keydown", function (event) {
@@ -1041,15 +1046,15 @@ const anzhiyu = {
 
     function dr_js_autofill_commentinfos() {
       var lauthor = [
-        "#author",
-        "input[name='comname']",
-        "#inpName",
-        "input[name='author']",
-        "#ds-dialog-name",
-        "#name",
-        "input[name='nick']",
-        "#comment_author",
-      ],
+          "#author",
+          "input[name='comname']",
+          "#inpName",
+          "input[name='author']",
+          "#ds-dialog-name",
+          "#name",
+          "input[name='nick']",
+          "#comment_author",
+        ],
         lmail = [
           "#mail",
           "#email",
@@ -1110,7 +1115,7 @@ const anzhiyu = {
     //   "取消"
     // );
     travellingsTimer = setTimeout(function () {
-      window.open("https://www.travellings.cn/plain.html", "_blank");
+      window.open("https://www.travellings.cn/go.html", "_blank");
     }, "0");
   },
 
