@@ -29,7 +29,7 @@ nav:
   travelling: true
   clock: true
   menu:
-    - title: 相关页面
+    - title: 相关站点
       item:
         - name: 博客
           link: https://rhopaper.top/
@@ -37,11 +37,11 @@ nav:
         - name: Paper³论坛
           link: https://bbs.rhopaper.top/
           icon: https://s1.imagehub.cc/images/2024/12/22/abcb8bb6216c6bba530f47c74bd38d7d.webp
-        - name: 老站(V0.1版本)
+        - name: 老站(v0.0.1)
           link: https://old.rhopaper.top/
           icon: https://rhopaper.top/avatar.jpg
 
-    - title: 项目
+    - title: 一些项目
       item:
         - name: 凪Ze
           link: https://wyz.rhopaper.top/
@@ -449,15 +449,18 @@ footer:
       - link: https://hexo.io/ #徽标指向网站链接
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg #徽标API
         message: 博客框架为Hexo_v5.4.0 #徽标提示语
-      - link: https://blog.anheyu.com/
-        shields: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.9/img/Theme-AnZhiYu-2E67D3.svg
-        message: 本站使用AnZhiYu主题
+      - link: https://docs.anheyu.com/
+        shields: https://docs.anheyu.com/cover.webp
+        message: 本站使用Anzhiyu主题
       # - link: https://www.dogecloud.com/
       #   shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/CDN-多吉云-3693F3.svg
       #   message: 本站使用多吉云为静态资源提供CDN加速
-      - link: https://github.com/
-        shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg
-        message: 本站项目由Github托管
+      - link: https://vercel.com/
+        shields: https://vercel.com/vc-ap-vercel-docs/_next/static/media/vercel-logotype-light.cf7eca76.svg
+        message: 本站项目由Vercel托管
+      - link: https://www.travellings.cn/
+        shields: https://www.travellings.cn/assets/logo.gif
+        message: 本站已加入开往 1472号
       - link: http://creativecommons.org/licenses/by-nc-sa/4.0/
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/Copyright-BY-NC-SA.svg
         message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
