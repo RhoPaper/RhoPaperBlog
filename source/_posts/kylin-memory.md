@@ -10,7 +10,7 @@ cover: https://s1.imagehub.cc/images/2025/03/02/5cb7482af39f7ed08ac645787bde1e6f
 
 {% folding sorry   ≦(._.)≧ %}
 上周有一些意外情况，没更新。
-先在来补辣(●ˇ∀ˇ●)
+现在来补辣(●ˇ∀ˇ●)
 {% endfolding %}
 
 ## 正常人的办法
