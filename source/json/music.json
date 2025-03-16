@@ -4,7 +4,7 @@
     "artist": "しぐれうい",
     "url": "https://music.163.com/song/media/outer/url?id=2091667481.mp3",
     "cover": "https://p2.music.126.net/0lgs8VTK6bia45ytgj4e9g==/109951168990463282.jpg",
-    "lrc": "https://s3.tebi.io/lrcfiles/%E7%B2%9B%E8%81%96%21%21%20%E3%83%AD%E3%83%AA%E7%A5%9E%E3%83%AC%E3%82%AF%E3%82%A4%E3%82%A8%E3%83%A0.lrc"
+    "lrc": "https://api.i-meto.com/meting/api?server=netease&type=lrc&id=2091667481&auth=6782c4cd358fc2755a2e7e2b95a3a017b40911a5"
   },
   {
     "name": "INTERNET OVERDOSE",
