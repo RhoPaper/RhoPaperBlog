@@ -115,6 +115,12 @@
       descr: 技术与生活
       siteshot: https://s1.imagehub.cc/images/2024/12/21/ff1de3a05c309fda06488545f3527ae6.webp
 
+    - name: 小林的小窝
+      link: https://www.xiaorin.com
+      avatar: https://www.xiaorin.com/Image.jpg
+      descr: 分享技术、日常
+      siteshot: https://s1.imagehub.cc/images/2025/03/22/c9e61c4b4f1cb432be7765186e260aec.webp
+
 - class_name: 框架
   flink_style: flexcard
   hundredSuffix: ""
