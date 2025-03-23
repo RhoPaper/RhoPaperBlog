@@ -17,16 +17,16 @@ cover: https://s1.imagehub.cc/images/2025/03/16/6490a684756d811b50535556f0ed991c
 **官网直达**：
 
 {% sitegroup %}
-{% site slowroads.io, url=<https://slowroads.io/>, screenshot=<https://s1.imagehub.cc/images/2025/03/23/bca34858a05adc40063cc61f0368e346.webp>, avatar=<https://s1.imagehub.cc/images/2025/03/23/1e47d36fb11d77d13828a80246a92305.webp>, description=S l o w r o a d s- 慢 路%}
+{% site slowroads.io, url=https://slowroads.io/, screenshot=https://s1.imagehub.cc/images/2025/03/23/bca34858a05adc40063cc61f0368e346.webp, avatar=https://s1.imagehub.cc/images/2025/03/23/1e47d36fb11d77d13828a80246a92305.webp, description=S l o w r o a d s- 慢 路%}
 {% endsitegroup %}
 
 **核心玩法**：按住W键，开车！没了！
 
-{% image <https://s1.imagehub.cc/images/2025/03/23/d6e272a5d483ac203264395ec87c7826.webp>, alt=这条路，我能开到退休（老板：你最好是） %}
+{% image https://s1.imagehub.cc/images/2025/03/23/d6e272a5d483ac203264395ec87c7826.webp, alt=这条路，我能开到退休（老板：你最好是） %}
 
 是的，就是这么简单粗暴！《Slow Roads》是一款**程序自动生成景观**的休闲驾驶游戏。没有任务、没有BOSS、没有氪金皮肤（暂时），只有一条永远开不到头的公路，以及春夏秋冬随机切换的风景。  
 
-{% image <https://s1.imagehub.cc/images/2025/03/23/0b4c147815d4bed10040cfb426c6a39f.webp>, alt=摸鱼的最高境界：让AI替我打工 %}
+{% image https://s1.imagehub.cc/images/2025/03/23/0b4c147815d4bed10040cfb426c6a39f.webp, alt=摸鱼的最高境界：让AI替我打工 %}
 
 ---
 
@@ -38,13 +38,13 @@ cover: https://s1.imagehub.cc/images/2025/03/16/6490a684756d811b50535556f0ed991c
 
 - **天气自由（Q/E键）**：晴天、雨天、雪天、火星天（你没看错！）随意切换，甚至能开着自行车在月球表面玩“低重力漂移”。  
 
-{% image <https://s1.imagehub.cc/images/2025/03/23/7e6835d07cad8a6855d066538f2c8f33.webp>, alt=今日通勤路线：公司→撒哈拉→月球→下班 %}
+{% image https://s1.imagehub.cc/images/2025/03/23/7e6835d07cad8a6855d066538f2c8f33.webp, alt=今日通勤路线：公司→撒哈拉→月球→下班 %}
 
 #### **2. 物理引擎の玄学魅力**  
 
 游戏采用**Three.js框架**开发，车辆动力学模拟真实到离谱——轮胎打滑、车身颠簸、甚至掉进水里还能当潜艇开（物理学家：你礼貌吗？）。不过开发者贴心地设置了**“一键回公路（R键）”**，手残党也能秒变秋名山车神。  
 
-{% image <https://s1.imagehub.cc/images/2025/03/23/f483f6ff1c4a3784335f9a629fe81430.webp>, alt=科目二没过的我，在这里实现了‘水下驾驶’自由 %}
+{% image https://s1.imagehub.cc/images/2025/03/23/f483f6ff1c4a3784335f9a629fe81430.webp, alt=科目二没过的我，在这里实现了‘水下驾驶’自由 %}
 
 ---
 
@@ -58,13 +58,13 @@ cover: https://s1.imagehub.cc/images/2025/03/16/6490a684756d811b50535556f0ed991c
 
 - **环保の执念**：默认车辆是电动车（连引擎声都是“未来感白噪音”），老哥还傲娇表示：“内燃机？过时啦！”。  
 
-{% image <https://s1.imagehub.cc/images/2025/03/23/92c3e78cbf6135ab6e756af188c66a3b.webp>, alt=从“辣眼睛”到“哇塞”：程序员の审美进化史 %}
+{% image https://s1.imagehub.cc/images/2025/03/23/92c3e78cbf6135ab6e756af188c66a3b.webp, alt=从“辣眼睛”到“哇塞”：程序员の审美进化史 %}
 
 ---
 
 ### **四、Steam版预告：手动挡+联机飙车，摸鱼也要卷起来！**  
 
-{% image <https://s1.imagehub.cc/images/2025/03/23/26575be0b6faa8072e847169bac6ae33.webp>, alt=别人的DIY：乐高；我的DIY：造条路让老板找不到我 %}
+{% image https://s1.imagehub.cc/images/2025/03/23/26575be0b6faa8072e847169bac6ae33.webp, alt=别人的DIY：乐高；我的DIY：造条路让老板找不到我 %}
 
 虽然网页版已经足够香，但**2025年5月**即将上线的Steam版才是真·大招！新增功能包括：  
 
