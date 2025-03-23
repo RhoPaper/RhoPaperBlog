@@ -1,7 +1,7 @@
 ---
 title: 【持续更新】<meta>元素用法大全
 date: 2024-11-30 19:34:23
-update: 2025-01-01 17:16:00
+update: 2025-03-23 10：05：00
 tags: 
 - 建站
 - 实用
@@ -166,7 +166,6 @@ Twitter Cards提供了页面在Twitter上分享时的丰富摘要。
 1. `<meta name="apple-mobile-web-app-capable" content="yes">`：告诉Safari浏览器该页面可以作为一个全屏的Web应用程序运行。
 2. `<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">`：设置iOS设备上Safari浏览器的状态栏颜色。
 3. `<meta name="theme-color" content="#ff0000">`：设置Web应用的主题颜色，用于Android Chrome的工具栏颜色。
-
 
 以上就是&lt;meta&gt;元素的常见用法和注意事项，正确使用这些标签可以大幅提升网页的SEO表现和用户体验。
 
