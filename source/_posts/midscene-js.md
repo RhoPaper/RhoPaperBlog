@@ -66,9 +66,9 @@ await aiAssert('搜索结果至少包含3个Bose品牌的耳机');
 ### 🚀 Chrome插件：即刻体验"开挂人生"
 安装插件后，在任何网页按F12打开控制台，输入：
 ```javascript
-await ai('把当前页面的美女图片都下载了');
+await ai('把当前页面的可爱萝莉图片都下载了');
 ```
-（危险动作请勿模仿！）即刻感受什么叫"所见即所得"的自动化体验。
+（危险动作请勿模仿！🤣）即刻感受什么叫"所见即所得"的自动化体验。
 
 ### 📊 可视化报告：回放比吃播还下饭
 每次运行自动生成带动画回放的可视化报告，支持：
@@ -94,7 +94,7 @@ await ai('把当前页面的美女图片都下载了');
 
 ## 程序员の正确打开方式
 
-1. **摸鱼党**：先装[Chrome插件](https://chrome.google.com/webstore)，5分钟体验AI自动化魔法
+1. **摸鱼党**：先装[Chrome插件](https://chromewebstore.google.com/detail/midscene/gbldofcpkknbggpkmbdaefngejllnief)，5分钟体验AI自动化魔法（没法科学上网？给你准备好[>>>国内镜像<<<](https://s3.tebi.io/paperpan/Midscence-ext.crx)了！）
 2. **集成狂魔**：支持Playwright/Puppeteer/YAML等多种姿势接入
 3. **二次 ~~元~~ 开发者**：GitHub仓库[web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)直接开搞！
 4. **吃瓜群众**：加入[飞书交流群](https://applink.larkoffice.com/client/chat/chatter/add_by_link?link_token=291q2b25-e913-411a-8c51-191e59aab14d)围观字节大佬在线飙车
