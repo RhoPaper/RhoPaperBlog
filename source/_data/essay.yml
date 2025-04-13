@@ -12,15 +12,12 @@
     - content: 今天即刻短文上线了
       date: 2024/10/03 21:04
       link: /essay/
-      from: RhoPaper
     - content: 今天又做了一期视频~虽然有点水……
       date: 2024/10/03 18:02
-      from: RhoPaper
       video:
         - https://player.bilibili.com/player.html?isOutside=true&aid=113242332529788&bvid=BV1S8xXeWExR&cid=26120945929&p=1&autoplay=0
     - content: 今天屁股肉打得爽！
       date: 2024/10/03 14:56
-      from: RhoPaper
       image:
       - https://s1.imagehub.cc/images/2024/10/04/ed38ce23a1de963bdb77b9f1be021dc1.jpg
     - content: 把图床换成imagehub了
@@ -28,7 +25,6 @@
       image:
       - https://s1.imagehub.cc/images/2024/10/05/34145446d7acc40d8d10172661dc82dd.png
       link: /2024/10/04/全网免费图床推荐/#NO-1-图仓-Imagehub
-      from: RhoPaper
     - content: 今天逛知乎的时候看到一句话：“在中国你很难不犯法。好消息是，违法不一定会有人管你;坏消息是，违法不一定会有人管你。”
       date: 2024/10/05 
       link: https://www.zhihu.com/question/617917921/answer/3180465191
@@ -41,10 +37,8 @@
       image:
       - https://s1.imagehub.cc/images/2024/10/05/cf7d723f3d9f6c42ce7f98c2870e4ecb.png
       - https://s1.imagehub.cc/images/2024/10/05/8d00590ba1d87f3f92e966d080163a94.jpg
-      from: RhoPaper
     - content: 终于整好相册集了！
       date: 2024/10/05 06:56:58
-      from: RhoPaper
       link: /album/
     - content: 这个git提交好随缘啊！
       date: 2024/10/05 18:19:34
@@ -57,18 +51,14 @@
     - content: 把博客的托管从Github Pages迁移到Vercel上了，因为前几天发现百度无法收录Github Pages上的站点，查了一下还是投入Vercel的怀抱了~说实话Vercel真的是个好东西，托管起来很方便。
       date: 2024/11/09 19:38:54
       link: https://vercel.com/
-      from: RhoPaper
       image:
       - https://s1.imagehub.cc/images/2024/11/09/164a693514661d3834208e8f34355bbf.jpg
     - content: 好久没写过即刻短文了，为什么呢？（emm……）
       date: 2024/12/14 16:00:00
-      from: RhoPaper
     - content: 博文写得好累啊……😩😩😩
       date: 2024/12/15 19:56:44
-      from: RhoPaper
     - content: 我在共创世界WGJ预告帖的评论被置顶了！
       date: 2024/12/21 19:01:00
-      from: RhoPaper
       link: https://learn.ccw.site/article/1cf193bb-1533-4667-9b31-d72248cd387c
       image:
       - https://s1.imagehub.cc/images/2024/12/21/21c561b5898ebcd5da4b32f0a62665a2.th.jpeg
@@ -77,7 +67,6 @@
       from: RhoPaper
     - content: 终于动了动我没有任何一丝想动的念头的手，写了篇文章，甚至还加了技能点……额……只是Win和Linux……（ 我 是 神 金 ）
       date: 2025/01/01 17:11:00
-      from: RhoPaper
     - content: 早上起来，看看日期——2025年1月11日——今天是我的生日！那……就祝自己生日快乐叭~🎉🎉🎉（自娱自乐のme）
       date: 2025/01/11 9:00:00
       from: RhoPaper
@@ -85,11 +74,10 @@
       - https://s1.imagehub.cc/images/2025/01/11/473260f53276fa590ddf9b87eaac12bf.webp
     - content: 整了个名为bento的东西
       date: 2025/01/26 15:04:00
-      from: RhoPaper
       link: https://bento.me/rhopaper
     - content: 想做好多东西，脑子里有无穷的点子……可惜没几个走进现实……（大悲）
       date: 2025/03/23 11:08:10
-      from: RhoPaper
-      
+    - content: 新写的两篇文章都懒得找封面了，直接二次元启动……看来以后纯度将大幅提升了！（
+      date: 2025/04/13 10:08:33
 
       
