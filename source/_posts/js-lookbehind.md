@@ -9,7 +9,7 @@ categories: 莫写屎山
 keywords: 后行断言, 正则表达式, JavaScript, 兼容性问题, 浏览器支持, 性能优化, 代码维护, 调试工具
 description: 掌握 JavaScript 后行断言，让你的正则表达式从“能用”进阶到“好用”！
 ai: 掌握 JavaScript 后行断言，让你的正则表达式从“能用”进阶到“好用”！
- 
+cover: https://s1.imagehub.cc/images/2025/04/13/2fabc53702524ab84b0525de877c1699.webp
 ---
 ### 引言：后行断言的价值定位
 
