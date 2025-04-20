@@ -127,11 +127,11 @@
       descr: 一个独立开发者的日常
       siteshot: https://s1.imagehub.cc/images/2025/03/29/a0bf166f463f59362db942af595e99c4.jpg
       
-    - name: Sakitami 的集装箱
-      link: https://blog.skihome.xyz
-      avatar: https://blog.skihome.xyz/uploads/avatar.jpg
-      descr: 我已经无敌了！
-      siteshot: https://s1.imagehub.cc/images/2025/04/20/7df47ef3d46cc853d30e0f48f22184b6.webp
+    # - name: Sakitami 的集装箱
+    #   link: https://blog.skihome.xyz
+    #   avatar: https://blog.skihome.xyz/uploads/avatar.jpg
+    #   descr: 我已经无敌了！
+    #   siteshot: https://s1.imagehub.cc/images/2025/04/20/7df47ef3d46cc853d30e0f48f22184b6.webp
 
 - class_name: 框架
   flink_style: flexcard
