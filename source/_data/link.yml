@@ -133,11 +133,11 @@
     #   descr: 我已经无敌了！
     #   siteshot: https://s1.imagehub.cc/images/2025/04/20/7df47ef3d46cc853d30e0f48f22184b6.webp
 
-      - name: 萌言Moey
-        link: https://moey.cn/
-        avatar: https://pic.imgdb.cn/item/64a7c06e1ddac507ccdfe43f.jpg
-        descr: 一个萌萌の句子收藏站
-        siteshot: https://s1.imagehub.cc/images/2025/04/27/2867a539ce3354c34da5b844b0321583.webp
+    - name: 萌言Moey
+      link: https://moey.cn/
+      avatar: https://pic.imgdb.cn/item/64a7c06e1ddac507ccdfe43f.jpg
+      descr: 一个萌萌の句子收藏站
+      siteshot: https://s1.imagehub.cc/images/2025/04/27/2867a539ce3354c34da5b844b0321583.webp
 
 - class_name: 框架
   flink_style: flexcard
