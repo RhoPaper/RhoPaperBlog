@@ -1,6 +1,15 @@
 ---
 title: 新一代静态博客框架Valaxy：用银河系级的扩展性重塑创作体验
-
+date: 2025-04-26 16:44:23
+tags: 
+- 建站
+- 实用
+- 前端
+categories: 好用爱用
+keywords: Valaxy博客框架, Vue3静态网站, Vite热更新, Markdown扩展, 博客主题定制, 开发者工具, 开源博客系统
+description: Valaxy基于Vue3与Vite打造，提供极速热更新与深度自定义能力。本文详解如何快速搭建高性能技术博客，涵盖主题定制、Markdown增强等核心功能，助力开发者打造个性化创作空间。
+ai: Valaxy基于Vue3与Vite打造，提供极速热更新与深度自定义能力。本文详解如何快速搭建高性能技术博客，涵盖主题定制、Markdown增强等核心功能，助力开发者打造个性化创作空间。
+cover: https://s1.imagehub.cc/images/2025/05/09/eb95ae4c53a4046ae0a312c33aa46c5e.webp
 ---
 
 ![Valaxy Logo](https://valaxy.site/favicon.svg)
