@@ -1,6 +1,6 @@
 ---
 title: 这家工作室用Rust写的IO游戏，让我彻底告别「电子阳痿」！
-date: 2025-04-28000:33:30
+date: 2025-04-19 00:33:30
 tags:
 - 前端
 - UP主
@@ -8,7 +8,7 @@ categories: 巨佬收集
 keywords: Softbear Studios, HTML5游戏推荐, 免费多人在线游戏, Rust语言开发, IO游戏, Mk48.io攻略, Kiomet实时策略, Netquel太空战争, 浏览器游戏, 无需下载游戏, 开源游戏引擎, 网页游戏工作室
 description: 想找即点即玩的爽快游戏？Softbear Studios用Rust开发的HTML5神作Mk48.io、Kiomet和Netquel，带你体验「浏览器变游戏主机」的黑科技！零下载、全免费、全球玩家在线对轰，这帮技术宅还开源了游戏代码。拒绝电子阳痿，这篇全网最野的游戏安利告诉你什么叫「摸鱼天花板」！
 ai: 想找即点即玩的爽快游戏？Softbear Studios用Rust开发的HTML5神作Mk48.io、Kiomet和Netquel，带你体验「浏览器变游戏主机」的黑科技！零下载、全免费、全球玩家在线对轰，这帮技术宅还开源了游戏代码。拒绝电子阳痿，这篇全网最野的游戏安利告诉你什么叫「摸鱼天花板」！
-cover: https://raw.githubusercontent.com/SoftbearStudios/.github/refs/heads/main/banner_themrpancake.png
+cover: https://raw.bgithub.xyz/SoftbearStudios/.github/refs/heads/main/banner_themrpancake.png
 ---
 
 ![（此处可替换为Mk48.io游戏截图，画面需有战舰对轰特效）](https://img.36krcdn.com/20220510/v2_7d0d0e7a6e9a4c8d8f0c6d8b5c6b6d6d7_img_jpeg?x-oss-process=image/resize,m_lfit,w_600,h_400)  
