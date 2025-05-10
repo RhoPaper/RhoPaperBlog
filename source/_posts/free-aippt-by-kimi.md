@@ -25,7 +25,7 @@ highlight_shrink: true
 ![抓狂.QwQ](https://s1.imagehub.cc/images/2025/05/10/3417e73ad9439ac080b257c20e7a646e.webp)
 呜呜呜，看着做完的PPT拿不到手，难受啊！
 
-**没关系！因为~~我~~*Kimi*来了！**
+**没关系！因为 ~~我~~ *Kimi* 来了！**
 
 现在，就让我手把手带你白嫖昂贵的AiPPT吧！！！
 
