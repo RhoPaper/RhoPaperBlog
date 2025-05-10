@@ -625,16 +625,16 @@ microsoft_clarity: qhsgfho1px # 不用 oa58g90s8n
 # Google Adsense (谷歌广告)
 google_adsense:
   enable: false
-  auto_ads: true
+  auto_ads: false
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
   client:
   enable_page_level_ads: true
 
 # Insert ads manually (手动插入广告)
 ad:
-  index:
+  index: false
   aside: <img width="400" height="140" src="https://card.yuy1n.io/card/76561199530174309/gradient2,badge,group,badges,games,reviews">
-  post:
+  post: false
 
 # Verification (站长验证)
 # --------------------------------------
