@@ -631,10 +631,10 @@ google_adsense:
   enable_page_level_ads: true
 
 # Insert ads manually (手动插入广告)
-# ad:
-#   index:
-#   aside:
-#   post:
+ad:
+  index:
+  aside: <img width="400" height="140" src="https://card.yuy1n.io/card/76561199530174309/gradient2,badge,group,badges,games,reviews">
+  post:
 
 # Verification (站长验证)
 # --------------------------------------
