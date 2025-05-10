@@ -3,10 +3,10 @@ title: 【保姆级】手把手教你用Kimi白嫖AiPPT！！
 date: 2025-05-11 06:15:36
 tags: 实用
 categories: 一起白嫖
-keywords: 
-description: 
-ai: 
-cover: 
+keywords: Kimi, AiPPT, 免费PPT生成, PPT制作教程, 白嫖AI工具, DeepSeek, Markdown大纲
+description: 手把手教你通过Kimi和DeepSeek免费生成高质量PPT，无需付费解锁功能，支持下载.pptx文件，保姆级教程轻松白嫖AI设计！
+ai: 手把手教你通过Kimi和DeepSeek免费生成高质量PPT，无需付费解锁功能，支持下载.pptx文件，保姆级教程轻松白嫖AI设计！
+cover: https://s1.imagehub.cc/images/2025/05/11/1688250d5a461c2ecd05106e46e7f82f.webp
 highlight_shrink: true
 ---
 
