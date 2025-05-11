@@ -145,6 +145,18 @@
       descr: 一个萌萌の句子收藏站
       siteshot: https://s1.imagehub.cc/images/2025/04/27/2867a539ce3354c34da5b844b0321583.webp
 
+    - name: Ying
+      link: https://blog.luvying.com
+      avatar: https://cdn.luvying.com/files/images/avatar.jpg
+      descr: ⎛⎝喵~⎠⎞
+      siteshot: https://s1.imagehub.cc/images/2025/05/11/27293a620ad4d4782f1421f6d98893ef.webp
+
+    - name: SaraKale’s blog
+      link: https://sarakale.top/blog
+      avatar: https://npm.elemecdn.com/sarakale-assets@v1/sarakale.jpg
+      descr: 兴趣广泛，涉足于游戏/动漫/设计/音乐等，常在二次元流浪～
+      siteshot: https://s1.imagehub.cc/images/2025/05/11/dbee5e0246b4a1377dafd3bd1136d8e2.webp
+
 - class_name: 框架
   flink_style: flexcard
   hundredSuffix: ""
