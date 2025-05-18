@@ -5,6 +5,7 @@ tags:
 - 实用
 - 前端
 - UP主
+- AI
 categories: 好用爱用
 description: 手把手教会你使用DeepSeek API服务！AI快人一步！
 ai: 手把手教会你使用DeepSeek API服务！AI快人一步！
