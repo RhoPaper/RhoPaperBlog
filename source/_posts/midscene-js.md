@@ -5,6 +5,7 @@ tags:
 - 实用
 - 前端
 - 测试
+- AI
 categories: 好用爱用
 keywords: Midscene.js, AI自动化测试, UI自动化工具, 自然语言编程, 前端测试框架, 字节跳动开源, Web Infra, Playwright集成, 测试脚本可视化, 数据隐私保护
 description: 字节跳动Web Infra团队开源的Midscene.js，用AI重新定义UI自动化测试！无需编写复杂选择器，直接用人话控制浏览器操作、提取数据和智能断言。支持Chrome插件零代码体验、可视化调试回放、GPT-4o/开源模型自由切换，更提供Playwright/Puppeteer无缝集成。告别996式脚本维护，让你的测试代码自己学会写代码！
