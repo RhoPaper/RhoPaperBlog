@@ -1,7 +1,9 @@
 ---
 title: 如何一条指令彻底去除文章AI味
 date: 2025-01-12 13:56:36
-tags: 实用
+tags: 
+- 实用
+- AI
 categories: 好用爱用
 keywords: AI, AI味, AI写作, Prompt
 description: 如何一条指令彻底去除文章AI味？这篇文章给你答案！
