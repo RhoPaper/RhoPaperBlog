@@ -157,6 +157,12 @@
     #   descr: 兴趣广泛，涉足于游戏/动漫/设计/音乐等，常在二次元流浪～
     #   siteshot: https://s1.imagehub.cc/images/2025/05/11/dbee5e0246b4a1377dafd3bd1136d8e2.webp
 
+    - name: 倾城于你
+      link: https://qninq.cn/
+      avatar: https://qninq.cn/favicon.ico
+      descr: 一个热爱分享的Typecho小站。
+      siteshot: https://s1.imagehub.cc/images/2025/05/26/1baf157786cce26d83435766d509d367.webp
+
 - class_name: 框架
   flink_style: flexcard
   hundredSuffix: ""
