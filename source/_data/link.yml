@@ -169,6 +169,18 @@
       descr: 昨日之书已合，今日之页当以“真本事”为墨
       siteshot: https://s1.imagehub.cc/images/2025/07/04/944753dbd6919e15eaaa7840662c7376.jpg
 
+    - name: HonestyのBlog
+      link: https://blog.hehouhui.cn/
+      avatar: https://blog-file.hehouhui.cn/202507171929231.jpeg
+      descr: 花有重开日,人无再少年
+      siteshot: https://s1.imagehub.cc/images/2025/07/24/96103ef8cc6072eec7853d56c5041a6e.webp
+
+    - name: 轻风blog
+      link: https://www.qingfengnb.cn/
+      avatar: https://img.qingfengnb.cn/LightPicture/2025/07/bec6eb9625656d60.jpg
+      descr: 茫茫人海，多么幸运才能遇见你！
+      siteshot: https://s1.imagehub.cc/images/2025/07/24/aff8b4f5302e76dc69145a549813e180.webp
+
 - class_name: 框架
   flink_style: flexcard
   hundredSuffix: ""
