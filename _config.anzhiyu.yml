@@ -854,7 +854,7 @@ aside:
 
   card_announcement:
     enable: true
-    content: 【本站域名已永久更改为rhopaper.top】欢迎来看我的博客鸭~
+    content: <strong>由于博主即将参加中考，现停更一年，至2026年8月1日恢复更新！</strong>
   card_weixin:
     enable: false
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
