@@ -31,6 +31,12 @@
   flink_style: telescopic
   hundredSuffix: ""
   link_list:
+    - name: 致星极客 | To STAR
+      link: https://2star.top/
+      avatar: https://2star.top/upload/zxjkicon.webp
+      descr: 创造属于你我的「奇迹」
+      siteshot: https://s1.imagehub.cc/images/2025/09/20/5d15ced461e3447cc01dc38e3057eb95.webp
+  
     - name: iMaeGoo’s Blog
       link: https://www.imaegoo.com
       avatar: https://s1.imagehub.cc/images/2024/10/07/21db61706780f5b2e6f6aec511fbdae0.jpg
@@ -206,3 +212,4 @@
       avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
       descr: 生活明朗，万物可爱
       siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+
