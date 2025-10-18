@@ -117,9 +117,9 @@
 
     - name: 映屿
       link: https://www.glowisle.me/
-      avatar: https://www.yingyu5658.me/images/static/avatar_nijika.png
+      avatar: https://www.glowisle.me/avatar.webp
       descr: 关于互联网、书籍、生活琐事以及那些一闪而过的念头
-      siteshot: https://s1.imagehub.cc/images/2025/04/12/dee605246fd77d968b1f882e8d8b4231.webp
+      siteshot: https://s1.imagehub.cc/images/2025/10/18/747d9ed3c7ab18d27a5cbccb81481a1f.webp
 
     - name: 小林的小窝
       link: https://www.xiaorin.com
@@ -212,5 +212,6 @@
       avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
       descr: 生活明朗，万物可爱
       siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+
 
 
