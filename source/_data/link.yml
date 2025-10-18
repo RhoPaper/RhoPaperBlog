@@ -115,10 +115,10 @@
       descr: 开发学习启发性二刺螈
       siteshot: https://cdn.jsdelivr.net/npm/@kmar/fonts/sc/own.jpg
 
-    - name: yingy5658的万事屋
-      link: https://www.yingyu5658.me/
+    - name: 映屿
+      link: https://www.glowisle.me/
       avatar: https://www.yingyu5658.me/images/static/avatar_nijika.png
-      descr: 技术与生活
+      descr: 关于互联网、书籍、生活琐事以及那些一闪而过的念头
       siteshot: https://s1.imagehub.cc/images/2025/04/12/dee605246fd77d968b1f882e8d8b4231.webp
 
     - name: 小林的小窝
@@ -212,4 +212,5 @@
       avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
       descr: 生活明朗，万物可爱
       siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+
 
