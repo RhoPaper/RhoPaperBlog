@@ -198,6 +198,11 @@
       avatar: https://leehenry.top/friends/my-avatar-portrait.jpg
       descr: 莫听穿林打叶声，何妨吟啸且徐行。
       siteshot: https://s1.imagehub.cc/images/2025/08/26/fdca16df80c5f71fd6eae70c19e47b7b.webp
+    - name: 栖梦集
+      link: https://www.lafoyer.com/
+      avatar: https://www.lafoyer.com/wp-content/uploads/2025/12/cropped-icon.png
+      descr: 一席小筑结网缘，半分禅意伴闲言
+      siteshot: https://s1.imagehub.cc/images/2026/01/02/6e1e2be1b1a741724f2148e884592ce1.webp
 
 - class_name: 框架
   flink_style: flexcard
