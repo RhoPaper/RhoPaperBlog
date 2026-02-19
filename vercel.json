@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/avatar",
+      "destination": "/avatar.jpg"
+    }
+  ]
+}
