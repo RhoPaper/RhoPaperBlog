@@ -31,6 +31,14 @@
   flink_style: telescopic
   hundredSuffix: ""
   link_list:
+    - name: TARS的小屋
+      link: https://tars1013.link
+      avatar: https://s21.ax1x.com/2025/06/21/pVZVqAI.jpg
+      descr: 即使是最平凡的事物，也可以发光发热哦.
+      siteshot: https://s1.imagehub.cc/images/2026/02/23/d56da653015b54bb103d68d4588e333d.webp
+      tag: 小繁星
+      color: vip
+
     - name: 致星极客 | To STAR
       link: https://2star.top/
       avatar: https://2star.top/upload/zxjkicon.webp
