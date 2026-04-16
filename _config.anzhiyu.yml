@@ -1276,7 +1276,8 @@ dynamicEffect:
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <meta name="baidu-site-verification" content="codeva-gu6a0Pdgca" /> # 百度站长验证用meta，永放勿删！！
+    - <meta name="baidu-site-verification" content="codeva-gu6a0Pdgca" /> # 百度站长验证用meta，永放勿删！
+    - <meta name="msvalidate.01" content="08A7EF36BF232EB0407032BF3E8B89AF" /> # Bing Webmaster验证，永放勿删！
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
 
