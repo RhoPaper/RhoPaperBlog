@@ -155,6 +155,7 @@ bangumi: # 追番设置
   progressBar: true
   extraOrder: false
   order: latest
+  coverMirror: 'https://images.weserv.nl/?url='  # 封面图片镜像
   proxy: false
     # host: "代理host"
     # port: "代理端口"
