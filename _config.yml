@@ -138,19 +138,19 @@ aplayer:
 # https://github.com/HCLonely/hexo-bilibili-bangumi
 bangumi: # 追番设置
   enable: true
-  source: bili
+  source: bangumi
   path: /bangumi/
-  vmid: 1762881915
-  title: "追番列表"
+  vmid: 944552
+  title: "追番"
   quote: "生命不息，追番不止！"
   show: 1
-  lazyload: false
-  loading: false
+  lazyload: true
+  # loading: false 已废弃
   showMyComment: false
-  pagination: false
+  pagination: true
   metaColor: '#FFFFF'
   color: '#FFFFF'
-  webp: true
+  webp: false
   progress: true
   progressBar: true
   extraOrder: false
@@ -160,7 +160,7 @@ bangumi: # 追番设置
     # port: "代理端口"
   extra_options:
     top_img: false
-    lazyload: false
+    lazyload: true
     enable: false
 
 # algolia搜索: https://github.com/LouisBarranqueiro/hexo-algoliasearch
