@@ -27,10 +27,10 @@
       tag: 服务器
       # recommend: false
 
-    - name: For the zero
-      link: https://for-the-zero.github.io/
-      avatar: https://for-the-zero.github.io/img/avatar.png
-      descr: For the zero的博客
+    - name: for_the_zero
+      link: https://ftz.is-a.dev/
+      avatar: https://ftz.is-a.dev/assets/avatar.png
+      descr: for_the_zero的博客
       color: vip
       tag: web友
 
