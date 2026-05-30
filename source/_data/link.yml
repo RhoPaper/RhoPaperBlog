@@ -207,7 +207,6 @@
       avatar: https://tu.w1f.top/file/1754228138583_image.png
       descr: 岁月温柔，万物生长。
       siteshot: https://s1.imagehub.cc/images/2025/08/04/351d658a87f1ccea42d815887efa658c.webp
-
     - name: 伏枥之间
       link: https://www.leehenry.top/
       avatar: https://leehenry.top/friends/my-avatar-portrait.jpg
@@ -223,6 +222,16 @@
       avatar: https://blog.224418.xyz/img/favicon.ico
       descr: 想和你重新认识一次，从你叫什么开始
       siteshot: https://cdn.magicalapk.com/square/916c1108-f6c9-45b3-aae7-e8c38c26f981.jpg
+    - name: Enento焰白小站
+      link: https://enento.cloud/
+      avatar: https://www.enento.cloud/upload/Enentoico.jpg
+      descr: 百次思考，千次落笔，刻下万次记忆
+      siteshot: https://s1.imagehub.cc/images/2026/05/31/d5bc2a1a211f6c30b8112b3f3dfcf026.webp
+    - name: 素心
+      link: https://haiy.space/
+      avatar: https://haiy.space/uploads/images/2026/05/04ea5fddc86ae2ca.jpg
+      descr: 我来互联网是当皇帝的
+      siteshot: https://s1.imagehub.cc/images/2026/05/31/27fe5f559455087be5e42788309dc4b3.webp
 
 - class_name: 框架
   flink_style: flexcard
