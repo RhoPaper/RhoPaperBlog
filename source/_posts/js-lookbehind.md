@@ -115,10 +115,10 @@ JavaScript 实现要求后行断言中的模式必须为**确定长度**：
 
 #### 5.1 调试策略
 推荐使用专业工具进行正则开发：
-1. [RegExr](https://regexr.com/)：实时可视化调试
-2. [Regex101](https://regex101.com/)：多语言支持
-3. Chrome DevTools：内置正则调试能力
-4. [Cyrilex](https://extendsclass.com/regex-tester.html)：多语言支持
+1. [RegExr](https://regexr.com/)：【开源 by [gskinner](https://gskinner.com/)】实时可视化调试
+2. [Cyrilex](https://extendsclass.com/regex-tester.html)：【开源 by [Cyril](https://github.com/cyrilbois)】多语言支持
+3. [Regex101](https://regex101.com/)：多语言支持，功能强大，但相当一部分需要Pro订阅
+4. Chrome DevTools：内置正则调试功能
 
 #### 5.2 代码质量保障
 ```javascript
