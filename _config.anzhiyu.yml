@@ -853,8 +853,12 @@ aside:
     name_link: /
 
   card_announcement:
-    enable: true
-    content: <strong>由于博主即将参加中考，现停更一年，至2026年8月1日恢复更新！</strong>
+    enable: false
+    content: 
+    # enable: true
+    # content: <strong>由于博主即将参加中考，现停更一年，至2026年8月1日恢复更新！</strong>
+    # 注释于2026-10-02 09:39:55
+    #     ————是的之前中考完忘记了，才想起来（）
   card_weixin:
     enable: false
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
